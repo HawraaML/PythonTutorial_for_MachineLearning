@@ -25,3 +25,12 @@ Tuple
 Set
 
 Dictionary 
+
+if condition
+
+for loop
+
+while loop
+
+functions
+
