@@ -34,3 +34,6 @@ while loop
 
 functions
 
+numPy
+
+Pandas
