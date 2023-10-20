@@ -38,4 +38,7 @@ numPy
 
 Pandas  
 link of data that used with pandas (https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
+
 matplotlib & seaborn
+
+scikit_learn
