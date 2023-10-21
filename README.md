@@ -41,4 +41,6 @@ link of data that used with pandas (https://www.kaggle.com/datasets/spscientist/
 
 matplotlib & seaborn
 
-scikit_learn
+scikit_learn(sklearn)
+
+college attending project(data = https://www.kaggle.com/datasets/charleyhuang1022/college-plan/data )
