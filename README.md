@@ -1,4 +1,4 @@
-# python_tutorial
+# Python_Tutorial
 
 the things that we will study in this tutorial:
 
